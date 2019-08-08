@@ -3,7 +3,7 @@
  
 ## server 
 
-Contêm um backend uma simples funcionalidade: registrar um usuário.
+Contêm um backend com uma simples funcionalidade: registrar um usuário.
 
 ## web
 

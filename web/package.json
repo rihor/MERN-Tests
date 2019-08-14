@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "immer": "^3.2.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-redux": "^7.1.0",
@@ -20,7 +21,6 @@
       "^~/(.*)": "<rootDir>/src/$1"
     },
     "setupFilesAfterEnv": [
-      "@testing-library/react/cleanup-after-each",
       "@testing-library/jest-dom/extend-expect",
       "jest-localstorage-mock"
     ]
